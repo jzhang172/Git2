@@ -1,0 +1,17 @@
+.section{
+	height:300px;
+	width:100%;
+	font-size:30px;
+
+
+}
+
+.one{
+	background:red;
+}
+.two{
+	background:blue;
+}
+.three{
+	background:green;
+}
